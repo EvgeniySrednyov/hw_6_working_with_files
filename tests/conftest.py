@@ -24,25 +24,3 @@ def create_archive():
     yield
 
     shutil.rmtree(archive_dir)
-
-
-
-
-
-
-
-
-# files_path = os.path.join('tmp')
-# archive_path = os.path.join('resources')
-# archive = os.path.join(archive_path, 'my_archive.zip')
-#
-#
-# if not os.path.exists(archive_path):
-#     os.mkdir(archive_path)
-#
-# with ZipFile(archive, 'w') as zf:
-#     for file in os.listdir(files_path):
-#         add_fies = os.path.join(files_path, file)
-#         zf.write(add_fies, os.path.basename(add_fies))
-#
-
