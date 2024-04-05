@@ -1,0 +1,3 @@
+Id;MasterId;Date;Type;Details;Status;Currency;Sum;IsIia;IsRestsPayOut;Ticker;SubType;DocumentId;OIsin;ClassCode;OIssuerName
+52c8bd46-0650-4832-ac8c-6cbb994606e9;b2b7ad4d-3409-4bae-a9d0-9694702f25ab;2024-02-06 20:59:59+00;5;FIX;0;RUB;299;False;False;NULL;NULL;e24bdfa0-12e0-44b3-b8f0-f21c53dc4bc1;NULL;NULL;NULL
+4eb3d243-734c-4436-9b94-13303c67ee20;b2b7ad4d-3409-4bae-a9d0-9694702f25ab;2024-02-06 20:59:59+00;5;FIX;0;RUB;299;False;False;NULL;NULL;e24bdfa0-12e0-44b3-b8f0-f21c53dc4bc1;NULL;NULL;NULL
